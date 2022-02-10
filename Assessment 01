@@ -1,0 +1,12 @@
+n=int(int(input("Enter n:"))
+if n/2==0:
+     print("given no is even num")
+else:
+     Print("given no is odd num")
+
+
+
+Output:
+
+Enter n:43
+given no is odd
